@@ -2,7 +2,7 @@ import TelegramBot from "node-telegram-bot-api";
 import express from "express";
 import cors from "cors";
 import fs from "fs";
-const token = "7050502766:AAHIh_t_mNmXmNN2vKkhK9Yg-IL_lhoETxo";
+const token = "your_real_telegram_bot_token";
 
 const bot = new TelegramBot(token, { polling: true });
 
