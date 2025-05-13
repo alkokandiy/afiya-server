@@ -60,7 +60,7 @@ bot.on("message", async (msg) => {
           [
             {
               text: "Mahsulotlarni Ko'rish",
-              web_app: { url: "https://afiya-omega.vercel.app" },
+              web_app: { url: "https://afiya-liard.vercel.app/" },
             },
           ],
         ],
